@@ -9,5 +9,6 @@ Greetings, I am what is known as the DapperProgrammer! But you can just call me 
 :mage_man: If life was a class sytem I would be a Wizard.
 
 :email: cal.tracyx@gmail.com
+
 :briefcase: https://www.linkedin.com/in/calvin-tracy-2421371a2/
 
